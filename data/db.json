@@ -1,0 +1,84 @@
+{"response_code":0,
+    "results":[
+        {
+            "type":"multiple",
+            "difficulty":"easy",
+            "category":"Art",
+            "question":"Who sculpted the statue of David?",
+            "correct_answer":"Michelangelo",
+            "incorrect_answers":["Gian Lorenzo Bernini","Auguste Rodin","Donatello"]
+        },
+        {
+            "type":"multiple",
+            "difficulty":"easy",
+            "category":"Art",
+            "question":"Who painted the Mona Lisa?",
+            "correct_answer":"Leonardo da Vinci",
+            "incorrect_answers":["Pablo Picasso","Claude Monet","Vincent van Gogh"]
+        },
+        {
+            "type":"multiple",
+            "difficulty":"hard",
+            "category":"Art",
+            "question":"How many paint and pastel versions of &quot;The Scream&quot; is Norwegian painter Edvard Munch believed to have produced?",
+            "correct_answer":"4",
+            "incorrect_answers":["1","3","2"]
+        },
+        {
+            "type":"multiple",
+            "difficulty":"hard",
+            "category":"Art",
+            "question":"Painter Piet Mondrian (1872 - 1944) was a part of what movement?",
+            "correct_answer":"Neoplasticism",
+            "incorrect_answers":["Precisionism","Cubism","Impressionism"]
+        },
+        {
+            "type":"multiple",
+            "difficulty":"easy",
+            "category":"Art",
+            "question":"Who painted the biblical fresco The Creation of Adam?",
+            "correct_answer":"Michelangelo",
+            "incorrect_answers":["Leonardo da Vinci","Caravaggio","Rembrandt"]
+        },
+        {
+            "type":"multiple",
+            "difficulty":"medium",
+            "category":"Art",
+            "question":"Which one of these paintings is not by Caspar David Friedrich?",
+            "correct_answer":"The Black Sea",
+            "incorrect_answers":["The Sea of Ice","Wanderer above the Sea of Fog","The Monk by the Sea"]
+        },
+        {   
+            "type":"multiple",
+            "difficulty":"easy",
+            "category":"Art",
+            "question":"Who painted The Starry Night?",
+            "correct_answer":"Vincent van Gogh",
+            "incorrect_answers":["Pablo Picasso","Leonardo da Vinci","Michelangelo"]
+        },
+        {
+            "type":"multiple",
+            "difficulty":"hard",
+            "category":"Art",
+            "question":"The painting &quot;The Starry Night&quot; by Vincent van Gogh was part of which art movement?",
+            "correct_answer":"Post-Impressionism",
+            "incorrect_answers":["Romanticism","Neoclassical","Impressionism"]
+        },
+        {
+            "type":"multiple",
+            "difficulty":"hard",
+            "category":"Art",
+            "question":"Albrecht D&uuml;rer&#039;s birthplace and place of death were in...",
+            "correct_answer":"N&uuml;rnberg",
+            "incorrect_answers":["Augsburg","Bamberg","Berlin"]
+        },
+        {
+            "type":"multiple",
+            "difficulty":"medium",
+            "category":"Art",
+            "question":"What nationality was the surrealist painter Salvador Dali?",
+            "correct_answer":"Spanish",
+            "incorrect_answers":["Italian","French","Portuguese"]
+        }
+    ]
+}
